@@ -1,9 +1,13 @@
 {
     "name": "zoilomora/laravel-msaccess",
-    "description": "",
-    "version": "dev-master",
+    "description": "This package helps you to manage Microsoft Access DB by ODBC Connection with the integrated Laravel ORM.",
+    "version": "1.0.0-beta",
     "type": "library",
-    "keywords": ["laravel"],
+    "keywords": [
+        "laravel",
+        "orm",
+        "microsoft-access"
+    ],
     "license": "MIT",
     "authors": [
         {
