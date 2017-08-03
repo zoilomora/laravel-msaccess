@@ -1,0 +1,31 @@
+{
+    "name": "zoilomora/laravel-msaccess",
+    "description": "",
+    "version": "dev-master",
+    "type": "library",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zoilo Mora",
+            "email": "zoilo.mora@hotmail.com",
+            "homepage": "http://zoilomora.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.6",
+        "illuminate/database": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZoiloMora\\": "src/"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/zoilomora/laravel-msaccess/issues"
+    }
+}
