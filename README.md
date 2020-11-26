@@ -1,3 +1,7 @@
+# This repository is no longer maintained.
+
+# It is recommended to visit the updated repository https://github.com/zoilomora/doctrine-dbal-msaccess that is being maintained and is not limited to the Laravel framework.
+
 # Laravel ORM for Microsoft Access DB
 [![Latest Stable Version](https://poser.pugx.org/zoilomora/laravel-msaccess/v/stable)](https://packagist.org/packages/zoilomora/laravel-msaccess)
 [![Total Downloads](https://poser.pugx.org/zoilomora/laravel-msaccess/downloads)](https://packagist.org/packages/zoilomora/laravel-msaccess)
